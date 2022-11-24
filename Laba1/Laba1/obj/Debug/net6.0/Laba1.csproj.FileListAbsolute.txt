@@ -1,0 +1,17 @@
+C:\Users\Urbanovich\source\repos\Laba1\Laba1\bin\Debug\net6.0\Laba1.exe
+C:\Users\Urbanovich\source\repos\Laba1\Laba1\bin\Debug\net6.0\Laba1.deps.json
+C:\Users\Urbanovich\source\repos\Laba1\Laba1\bin\Debug\net6.0\Laba1.runtimeconfig.json
+C:\Users\Urbanovich\source\repos\Laba1\Laba1\bin\Debug\net6.0\Laba1.dll
+C:\Users\Urbanovich\source\repos\Laba1\Laba1\bin\Debug\net6.0\Laba1.pdb
+C:\Users\Urbanovich\source\repos\Laba1\Laba1\obj\Debug\net6.0\Laba1.csproj.AssemblyReference.cache
+C:\Users\Urbanovich\source\repos\Laba1\Laba1\obj\Debug\net6.0\Laba1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Urbanovich\source\repos\Laba1\Laba1\obj\Debug\net6.0\Laba1.AssemblyInfoInputs.cache
+C:\Users\Urbanovich\source\repos\Laba1\Laba1\obj\Debug\net6.0\Laba1.AssemblyInfo.cs
+C:\Users\Urbanovich\source\repos\Laba1\Laba1\obj\Debug\net6.0\Laba1.csproj.CoreCompileInputs.cache
+C:\Users\Urbanovich\source\repos\Laba1\Laba1\obj\Debug\net6.0\Laba1.dll
+C:\Users\Urbanovich\source\repos\Laba1\Laba1\obj\Debug\net6.0\refint\Laba1.dll
+C:\Users\Urbanovich\source\repos\Laba1\Laba1\obj\Debug\net6.0\Laba1.pdb
+C:\Users\Urbanovich\source\repos\Laba1\Laba1\obj\Debug\net6.0\Laba1.genruntimeconfig.cache
+C:\Users\Urbanovich\source\repos\Laba1\Laba1\obj\Debug\net6.0\ref\Laba1.dll
+C:\Users\Urbanovich\source\repos\Laba1\Laba1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Urbanovich\source\repos\Laba1\Laba1\obj\Debug\net6.0\Laba1.csproj.CopyComplete
